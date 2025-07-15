@@ -153,7 +153,7 @@
             </lg>
 
             <lg n="20" xml:id="lg020">
-               <l n="58">Abraàm patrïarca e Davìd re,</l>
+               <l n="58"><persName type="fictional" xml:id="abr01">Abraàm patrïarca</persName> e Davìd re,</l>
                <l n="59">Israèl con lo padre e co’ suoi nati</l>
                <l n="60">e con Rachele, per cui tanto fé,</l>
             </lg>

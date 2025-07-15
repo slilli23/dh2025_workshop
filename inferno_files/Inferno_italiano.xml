@@ -214,7 +214,7 @@
 
             <lg n="30" xml:id="lg030">
                <l n="88">quelli è <persName role="poet" subtype="greek" type="identifiable" xml:id="ome01">Omero</persName> poeta sovrano;</l>
-               <l n="89">l’altro è Orazio satiro che vene;</l>
+               <l n="89">l’altro è <persName role="poet" subtype="roman" xml:id="ora01">Orazio</persName> satiro che vene;</l>
                <l n="90">Ovidio è ’l terzo, e l’ultimo Lucano.</l>
             </lg>
 

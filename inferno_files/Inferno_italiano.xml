@@ -148,7 +148,7 @@
 
             <lg n="19" xml:id="lg019">
                <l n="55">Trasseci l’ombra del primo parente,</l>
-               <l n="56">d’<persName xml:id="abe01">Abèl</persName> suo figlio e quella di Noè,</l>
+               <l n="56">d’<persName xml:id="abe01">Abèl</persName> suo figlio e quella di <persName type="fictional" xml:id="noe01">Noè</persName>,</l>
                <l n="57">di Moïsè legista e ubidente;</l>
             </lg>
 

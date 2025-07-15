@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="https://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/23-refine-leaf-css/CSS/leaf.css"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/23-refine-leaf-css/CSS/leaf.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -65,7 +64,7 @@
 
             <lg n="5" xml:id="lg005">
                <l n="13">«Or discendiam qua giù nel cieco mondo»,</l>
-               <l n="14">cominciò il poeta tutto smorto.</l>
+               <l n="14">cominciò <persName type="identifiable" xml:id="virg01">il poeta</persName> tutto smorto.</l>
                <l n="15">«Io sarò primo, e tu sarai secondo».</l>
             </lg>
 
